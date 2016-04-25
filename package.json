@@ -1,0 +1,16 @@
+{
+  "name": "modularjs",
+  "version": "1.0.0",
+  "description": "how to wite js modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alaa Attya <alaa.attya91@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0"
+  }
+}
